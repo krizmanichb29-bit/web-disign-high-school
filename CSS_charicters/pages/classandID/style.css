@@ -1,0 +1,17 @@
+*{
+ margin: 0px;
+background-color: yellow;
+}
+.card{
+    background-color: #243d83;
+width: 400px;
+height: 300px;
+margin: 50px auto;
+background-color: lightblue;
+.box{
+    position: absolute;
+    top: 300px;
+    
+}
+}
+ 

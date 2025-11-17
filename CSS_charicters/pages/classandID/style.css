@@ -10,8 +10,9 @@ margin: 50px auto;
 background-color: lightblue;
 .box{
     position: absolute;
-    top: 300px;
-    
+    top: 120px;
+    left: 60px;
+    color:#243d83
 }
 }
  

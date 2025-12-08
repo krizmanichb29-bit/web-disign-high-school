@@ -1,0 +1,27 @@
+*{
+  margin: 0px;
+  background-color: green
+}
+
+
+
+.container{
+
+  border: 3px solid black;
+  background-color: orangered;
+  padding: 15px;
+  display: flex;
+
+}
+
+ .item{
+  width: 200px;
+  height: 200px;
+  background-color: firebrick;
+  border: 1px solid black;
+  margin: 4px;
+  flex: 1;
+ }
+h1{
+background-color: bisque;
+}
